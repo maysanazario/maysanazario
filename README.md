@@ -17,7 +17,7 @@ Hello! I'm a multiplatform developer passionate about creating amazing solutions
 ## Contact
 
 - 📧 Email: maysaalexandrenazariodv@gmail.com
-- 💼 <a href="https://www.linkedin.com/in/maysa-alexandre-nazario-61aa7a272/" target="_blank">Check out my LinkedIn here!</a>
+- 💼 <a href="https://www.linkedin.com/in/maysa-alexandre-nazario-61aa7a272/" target="_blank">Check my LinkedIn here!</a>
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=maysanazario&show_icons=true&theme=radical" style="width: 48%; margin-right: 5%;">
