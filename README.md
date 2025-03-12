@@ -1,6 +1,6 @@
 <img src="Cat Coding GIF.gif" style="max-width: 100%; height: auto;" align="right">
 
-# Welcome to my GitHub! 🙃
+ <h1>Welcome to my GitHub! 🙃</h1>
 
 Hello! I'm a multiplatform developer passionate about creating amazing solutions for different platforms. Here you'll find some of my projects, experiments, and contributions to the development community.
 
@@ -22,6 +22,6 @@ Hello! I'm a multiplatform developer passionate about creating amazing solutions
 - 💼 <a href="https://www.linkedin.com/in/maysa-alexandre-nazario-61aa7a272/" target="_blank">Check out my LinkedIn here!</a>
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=maysanazario&show_icons=true&theme=radical" style="width: 48%; margin-right: 2%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysanazario&layout=compact&theme=radical" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=maysanazario&show_icons=true&theme=radical" style="width: 48%; margin-right: 5%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysanazario&layout=compact&theme=radical" style="width: 36%;">
 </div>
