@@ -21,6 +21,7 @@ Hello! I'm a multiplatform developer passionate about creating amazing solutions
 - 📧 Email: maysaalexandrenazariodv@gmail.com
 - 💼 <a href="https://www.linkedin.com/in/maysa-alexandre-nazario-61aa7a272/" target="_blank">Check out my LinkedIn here!</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maysanazario&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maysanazario&layout=compact&theme=radical)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=maysanazario&show_icons=true&theme=radical" style="width: 48%; margin-right: 2%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysanazario&layout=compact&theme=radical" style="width: 48%;">
+</div>
