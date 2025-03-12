@@ -11,10 +11,8 @@ Hello! I'm a multiplatform developer passionate about creating amazing solutions
 - 🌱 Always learning and sharing knowledge
 
 ## Skills
-
-- **Programming Languages:** JavaScript, Python, Java, etc.
-- **Frameworks:** React, Node.js, Flutter, etc.
-- **Tools:** Git, Docker, VS Code, etc.
+- **Programming Languages:** <br> [![My Skills](https://skillicons.dev/icons?i=cs,java,js,mysql,php,python,mysql)](https://skillicons.dev)
+- **Tools:** <br> [![My Skills](https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,pycharm)](https://skillicons.dev)
 
 ## Contact
 
