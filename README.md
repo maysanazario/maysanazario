@@ -1,4 +1,5 @@
-<img src="Cat Coding GIF.gif" style="max-width: 50%; height: auto;" align="right">
+<img src="cat.gif" style="max-width: 50%; height: auto; display: block;" align="right">
+
 
  <h1>Welcome to my GitHub! 🙃</h1>
 
