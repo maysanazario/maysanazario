@@ -1,5 +1,6 @@
-<img src="cat.gif" style="max-width: 50%; height: auto; display: block;" align="right">
-
+<div align="center">
+  <img src="cat_flower.jpg" style="max-width: 50%; height: 25vh; display: block;">
+</div>
 
  <h1>Welcome to my GitHub! 🙃</h1>
 
