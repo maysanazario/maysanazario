@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" style="max-width: 50%; height: 25vh; display: block;">
+  <img src="banner.png" style="max-width: 100%; height: auto; display: block;">
 </div>
 
 <h1>Bem-vindo(a) ao meu GitHub! 🙃</h1>
