@@ -9,22 +9,19 @@
   Aqui você encontra projetos, experimentos e contribuições que refletem minha jornada no mundo da tecnologia.
 </p>
 
----
 
 ## 👩‍💻 Sobre mim
 
 - 🚀 Desenvolvedora Multiplataforma com foco em soluções escaláveis e experiências intuitivas
 - 🌍 Entusiasta de Código Aberto e colaboração
 - 📚 Sempre em aprendizado constante — atualmente explorando novas stacks e arquiteturas
-- 🎯 Objetivo: criar tecnologia que impacte positivamente a vida das pessoas
 
----
 
 ## 🧰 Habilidades Técnicas
 
 <div align="center">
 
----
+
 
 ### 🎨 Frontend
 
@@ -61,7 +58,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="55" />
 </div>
 
----
+
 
 </div>
 
@@ -70,8 +67,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maysanazario&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysanazario&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maysanazario&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysanazario&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+ 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maysanazario&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
