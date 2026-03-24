@@ -22,41 +22,48 @@
 
 ## 🧰 Habilidades Técnicas
 
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">🎨 Frontend</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">⚙️ Backend</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🛠️ Ferramentas</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+---
+
+### 🎨 Frontend
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; padding: 20px; background: rgba(100, 100, 255, 0.05); border-radius: 20px; margin: 15px 0;">
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="55" />
+</div>
+
+---
+
+### ⚙️ Backend
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; padding: 20px; background: rgba(100, 255, 100, 0.05); border-radius: 20px; margin: 15px 0;">
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55" />
+</div>
+
+---
+
+### 🛠️ Ferramentas
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; padding: 20px; background: rgba(255, 100, 100, 0.05); border-radius: 20px; margin: 15px 0;">
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="55" />
+</div>
+
+---
+
+</div>
 
 ---
 
